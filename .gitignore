@@ -1,6 +1,9 @@
 # Dependencies
 /node_modules
 
+# Build output — generated on publish, not tracked in git
+/dist
+
 # macOS
 .DS_Store
 .DS_Store?
