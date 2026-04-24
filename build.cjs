@@ -2,7 +2,7 @@ const esbuild = require('esbuild');
 
 const isWatch = process.argv.includes('--watch');
 
-const BANNER = '/* @ottoai/browser-dna — Visitor Intelligence Script | https://github.com/ottoai/browser-dna */';
+const BANNER = '/* @ottoai/browser-dna — Visitor Intelligence Script | https://github.com/otto-ai-labs/browser-dna */';
 
 // ── 1. Browser IIFE — self-initializing <script> tag ──────────────────────────
 const iifeOptions = {

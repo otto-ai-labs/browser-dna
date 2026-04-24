@@ -4,7 +4,7 @@
 
 [![npm](https://img.shields.io/npm/v/@ottoai/browser-dna?color=blue)](https://www.npmjs.com/package/@ottoai/browser-dna)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Bundle Size](https://img.shields.io/badge/bundle-~35kB-green)](https://github.com/ottoai/browser-dna)
+[![Bundle Size](https://img.shields.io/badge/bundle-~35kB-green)](https://github.com/otto-ai-labs/browser-dna)
 [![ESM](https://img.shields.io/badge/module-ESM-blue)](https://www.npmjs.com/package/@ottoai/browser-dna)
 
 ![browser-dna](assets/hero.png)

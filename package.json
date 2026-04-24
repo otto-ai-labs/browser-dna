@@ -4,10 +4,10 @@
   "description": "Drop-in browser intelligence script — visitor identity, device, behavior, and creator signals in one payload",
   "author": "Otto AI <hello@joinotto.com>",
   "license": "MIT",
-  "homepage": "https://github.com/ottoai/browser-dna",
+  "homepage": "https://github.com/otto-ai-labs/browser-dna",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ottoai/browser-dna.git"
+    "url": "https://github.com/otto-ai-labs/browser-dna.git"
   },
   "keywords": [
     "browser",

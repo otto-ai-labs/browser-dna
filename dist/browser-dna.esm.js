@@ -1,4 +1,4 @@
-/* @ottoai/browser-dna — Visitor Intelligence Script | https://github.com/ottoai/browser-dna */
+/* @ottoai/browser-dna — Visitor Intelligence Script | https://github.com/otto-ai-labs/browser-dna */
 
 // src/social.js
 var IN_APP_BROWSER_TOKENS = [
