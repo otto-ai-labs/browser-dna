@@ -1,6 +1,6 @@
 {
   "name": "@ottoai/browser-dna",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Drop-in browser intelligence script — visitor identity, device, behavior, and creator signals in one payload",
   "author": "Otto AI <hello@joinotto.com>",
   "license": "MIT",
@@ -20,8 +20,8 @@
     "creator"
   ],
   "type": "module",
-  "main":    "dist/browser-dna.esm.js",
-  "module":  "dist/browser-dna.esm.js",
+  "main": "dist/browser-dna.esm.js",
+  "module": "dist/browser-dna.esm.js",
   "browser": "dist/browser-dna.js",
   "exports": {
     ".": {
@@ -35,7 +35,7 @@
   ],
   "scripts": {
     "build": "node build.cjs",
-    "dev":   "node build.cjs --watch"
+    "dev": "node build.cjs --watch"
   },
   "devDependencies": {
     "esbuild": "^0.25.0"
