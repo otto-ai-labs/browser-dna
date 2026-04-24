@@ -5,7 +5,7 @@
  * No automatic network requests. You decide what to do with the data.
  *
  * Embed:
- *   <script src="https://cdn.joinotto.com/browser-dna.js"
+ *   <script src="https://unpkg.com/@ottoai/browser-dna/dist/browser-dna.js"
  *     data-trigger="load"
  *     data-debug="false">
  *   </script>

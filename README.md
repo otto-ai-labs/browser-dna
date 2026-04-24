@@ -38,7 +38,7 @@ Works as a **`<script>` tag** (drop on any site, zero setup) or as an **npm/ESM 
 ### Option A — Script tag (fastest, zero install)
 
 ```html
-<script src="https://cdn.joinotto.com/browser-dna.js"></script>
+<script src="https://unpkg.com/@ottoai/browser-dna/dist/browser-dna.js"></script>
 
 <script>
   window.BrowserDNA.ready(data => {
@@ -70,7 +70,7 @@ console.log(data.social)         // { inAppBrowser: null, referrer: { platform: 
 
 ```html
 <script
-  src="https://cdn.joinotto.com/browser-dna.js"
+  src="https://unpkg.com/@ottoai/browser-dna/dist/browser-dna.js"
   data-trigger="load"
   data-debug="false"
 ></script>
