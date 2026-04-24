@@ -13,7 +13,6 @@ const iifeOptions = {
   outfile:     'dist/browser-dna.js',
   platform:    'browser',
   format:      'iife',
-  globalName:  'BrowserDNA',
   define:      { 'process.env.NODE_ENV': '"production"' },
   banner:      { js: BANNER },
 };
