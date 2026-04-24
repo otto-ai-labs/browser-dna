@@ -7,6 +7,8 @@
 [![Bundle Size](https://img.shields.io/badge/bundle-~35kB-green)](https://github.com/ottoai/browser-dna)
 [![ESM](https://img.shields.io/badge/module-ESM-blue)](https://www.npmjs.com/package/@ottoai/browser-dna)
 
+![browser-dna](assets/hero.png)
+
 Drop-in browser intelligence for any website. Collect visitor identity, device, behavior, creator, and AI signals in a single payload.
 
 No API key. No automatic network requests. No storage writes. Call `scan()`, get data, do whatever you want with it.
