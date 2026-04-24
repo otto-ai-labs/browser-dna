@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Script log files (generated at runtime in $HOME)
+*.log
+
+# Backup files created by setup.sh
+*.backup.*
+
+# Personal overrides — never commit credentials or private config
+.extra
+.env
+.env.*
+.s3cfg
+.boto
+.mrjob.conf
+.aws/
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Local scratch directory
+scratch/
+
+# Claude Code
+.claude/
