@@ -50,6 +50,7 @@ export async function scan(options = {}) {
 
   const payload = {
     url:       typeof window !== 'undefined' ? window.location.href : null,
+    referrer:  typeof document !== 'undefined' ? document.referrer || null : null,
     timestamp: new Date().toISOString(),
     fingerprint,
     creatorScore,
