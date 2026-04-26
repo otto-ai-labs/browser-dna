@@ -316,6 +316,8 @@ npm run dev     # watch mode
 
 ### Testing locally
 
+**Live demo:** [https://otto-ai-labs.github.io/browser-dna/](https://otto-ai-labs.github.io/browser-dna/)
+
 ```bash
 npx serve .
 # Open http://localhost:3000/test.html
