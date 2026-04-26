@@ -1,6 +1,6 @@
 {
   "name": "@ottoai/browser-dna",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Drop-in browser intelligence script — visitor identity, device, behavior, and creator signals in one payload",
   "author": "Otto AI <hello@joinotto.com>",
   "license": "MIT",
