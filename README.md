@@ -2,6 +2,8 @@
 
 > **One script. Complete visitor intelligence. You own the data.**
 
+**Live demo:** [https://otto-ai-labs.github.io/browser-dna/](https://otto-ai-labs.github.io/browser-dna/)
+
 [![npm](https://img.shields.io/npm/v/@ottoai/browser-dna?color=blue)](https://www.npmjs.com/package/@ottoai/browser-dna)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Bundle Size](https://img.shields.io/badge/bundle-~35kB-green)](https://github.com/otto-ai-labs/browser-dna)
