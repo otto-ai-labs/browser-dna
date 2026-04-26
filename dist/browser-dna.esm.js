@@ -1634,6 +1634,7 @@ async function scan(options = {}) {
   });
   const payload = {
     url: typeof window !== "undefined" ? window.location.href : null,
+    referrer: typeof document !== "undefined" ? document.referrer || null : null,
     timestamp: (/* @__PURE__ */ new Date()).toISOString(),
     fingerprint,
     creatorScore,
